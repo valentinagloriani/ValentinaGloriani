@@ -1,9 +1,7 @@
-## Hola mundo 👋 soy Valentina Gloriani ##
 
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+# Hola mundo 👋 
+
+Soy Valentina Gloriani, **Data Analyst** y estudiante de **Data Science** en CoderHouse
 
 <!---
 ValentinaGloriani/ValentinaGloriani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
