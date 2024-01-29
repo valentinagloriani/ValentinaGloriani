@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ValentinaGloriani
+## Hola mundo 👋 soy Valentina Gloriani ##
+
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on 
