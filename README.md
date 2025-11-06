@@ -1,7 +1,7 @@
 
 # Hola mundo 👋 
 
-Soy Valentina Gloriani, **Data Analyst** y estudiante de **Data Science** en la UGR
+Soy Valentina Gloriani, **Data Analyst** y futura ** Técnica en Data Science**
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2)](https://www.linkedin.com/in/valentinagloriani/)
 
